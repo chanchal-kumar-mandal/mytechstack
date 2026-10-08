@@ -50,7 +50,7 @@ Everything is designed to be easily editable from the application UI.
 
 ## 📖 Demo
 
-<img width="1581" height="695" alt="mytechstack" src="https://github.com/user-attachments/assets/d9188afb-743a-48c2-8715-ad4ed0241110" />
+<img width="1572" height="690" alt="mytechstack" src="https://github.com/user-attachments/assets/2bbe7ac4-fecb-44c4-9dac-307a92dfe9e4" />
 
 ## 🎯 Key Features
 
