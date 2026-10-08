@@ -50,6 +50,8 @@ Everything is designed to be easily editable from the application UI.
 
 ## 📖 Demo
 
+<img width="1581" height="695" alt="mytechstack" src="https://github.com/user-attachments/assets/d9188afb-743a-48c2-8715-ad4ed0241110" />
+
 ## 🎯 Key Features
 
 ### 👤 Professional Profile
